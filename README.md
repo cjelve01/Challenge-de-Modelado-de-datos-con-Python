@@ -1,5 +1,10 @@
 # Challenge de Modelado de datos con Python Chile
 
+## Elaborado por: Carolina Jelve Riveros
+## email: cjelve@hotmail.com / cjelve@gmail.com
+## GitHub: cjelve01
+
+
 ### Comenzando 🚀
 En este estudio de Datos,  ayudarás al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar 
 un nuevo emprendimiento. Para ello, se analizaran datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. 
@@ -44,13 +49,10 @@ Se calculó el costo de envío promedio para cada tienda. El objetivo es compren
 ## Ejecutando las pruebas ⚙️
 
 ![Ingresos de las tiendas](https://github.com/cjelve01/Challenge-de-Modelado-de-datos-con-Python/blob/main/imagenes/Ingresos%20por%20Tienda.png)
-
-
-
+![Distribución de venta en Tienda 1](https://github.com/cjelve01/Challenge-de-Modelado-de-datos-con-Python/blob/main/imagenes/Tienda1%20distribucion%10de%10ventas.png)
 
 
 ## Construido con 🛠️
-
 * [Google Colab](https://colab.research.google.com/)) - Google Colab es un servicio gratuito, alojado en la nube, que te permite escribir y ejecutar código Python en tu navegador.
 * [GitHub](https://github.com/) - GitHub es una plataforma en la nube que facilita la colaboración y el desarrollo de software a través del sistema de control de versiones Git
 
