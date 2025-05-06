@@ -1,10 +1,5 @@
 # Challenge de Modelado de datos con Python Chile
 
-## Elaborado por: Carolina Jelve Riveros
-## email: cjelve@hotmail.com / cjelve@gmail.com
-## GitHub: cjelve01
-
-
 ### Comenzando 🚀
 En este estudio de Datos,  ayudarás al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar 
 un nuevo emprendimiento. Para ello, se analizaran datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. 
