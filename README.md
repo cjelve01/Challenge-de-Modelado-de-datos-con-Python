@@ -49,7 +49,7 @@ Se calculó el costo de envío promedio para cada tienda. El objetivo es compren
 ## Ejecutando las pruebas ⚙️
 
 ![Ingresos de las tiendas](https://github.com/cjelve01/Challenge-de-Modelado-de-datos-con-Python/blob/main/imagenes/Ingresos%20por%20Tienda.png)
-![Distribución de venta en Tienda 1](https://github.com/cjelve01/Challenge-de-Modelado-de-datos-con-Python/blob/main/imagenes/Tienda1%20distribucion%10de%10ventas.png)
+![Distribución de venta en Tienda 1](https://github.com/cjelve01/Challenge-de-Modelado-de-datos-con-Python/blob/main/imagenes/Tienda1%20distribucion%20de%20ventas.png)
 
 
 ## Construido con 🛠️
