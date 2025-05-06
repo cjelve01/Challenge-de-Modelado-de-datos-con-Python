@@ -23,32 +23,27 @@ El conjunto de datos incluye la siguiente información:
 
 
 ## Ingreso total por cada tienda
-En este primer análisis, debes calcular el ingreso total de cada tienda. Sumando los valores de la columna Precio de cada conjunto de datos de la tienda para estimar los ingresos.
+En este primer análisis, se calculo el ingreso total de cada tienda. Sumando los valores de la columna Precio de cada conjunto de datos de la tienda para estimar los ingresos.
 
 ## Ventas por categoría
-En este debes calcular la cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.
+Aquí se calculó la cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.
 
 
 ## Valoración media por tienda
-En este paso, debes calcular las calificaciones promedio de los clientes para cada tienda. El objetivo es conocer la satisfacción del cliente con los productos vendidos.
+Se calcularon las calificaciones promedio de los clientes para cada tienda. El objetivo es conocer la satisfacción del cliente con los productos vendidos.
 
 
 ## Productos más vendidos y menos vendidos
-En este paso, debes identificar qué productos fueron los más vendidos y los menos vendidos en cada tienda. Visualiza los resultados para que quede claro qué productos destacaron en ventas en cada tienda.
+Se identificaron qué productos fueron los más vendidos y los menos vendidos en cada tienda. Visualizar los resultados para que quede claro qué productos destacaron en ventas en cada tienda.
 
 
 ## Valor del envío promedio por tienda
-En este paso, debes calcular el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda.
-
-
-
-
+Se calculó el costo de envío promedio para cada tienda. El objetivo es comprender cuánto se gasta, en promedio, en el envío de cada tienda.
 
 
 ## Ejecutando las pruebas ⚙️
 
-
-
+![Ingresos de las tiendas](https://github.com/cjelve01/Challenge-de-Modelado-de-datos-con-Python/blob/main/imagenes/Ingresos%20por%20Tienda.png)
 
 
 
